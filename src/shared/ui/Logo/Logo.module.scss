@@ -1,0 +1,18 @@
+.title {
+    font-family: var(--font-family-logo);
+    font-size: 24px;
+    font-weight: 400;
+    color: var(--primary-font-color)
+}
+
+.logoContainter {
+    display: flex;
+
+}
+
+.image {
+    width: 41px;
+    height: 33px;
+    object-fit: cover;
+    color: var(--primary-font-color)
+}
